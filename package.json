@@ -1,6 +1,6 @@
 {
-  "name": "electron-sandbox",
-  "productName": "electron-sandbox",
+  "name": "highcharts-react-electron",
+  "productName": "highcharts-react-electron",
   "version": "1.0.0",
   "description": "My Electron application description",
   "main": ".webpack/main",
@@ -48,6 +48,8 @@
   "license": "MIT",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
+    "highcharts": "^11.4.1",
+    "highcharts-react-official": "^3.2.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   }
